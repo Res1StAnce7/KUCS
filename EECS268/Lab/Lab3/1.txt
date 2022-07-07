@@ -1,0 +1,11 @@
+START winscp
+START putty
+START steam
+CALL connect np_try_catch
+CALL login no_try_catch
+CALL login try_catch
+CALL writeFile no_try_catch
+RETURN
+THROW
+THROW
+END

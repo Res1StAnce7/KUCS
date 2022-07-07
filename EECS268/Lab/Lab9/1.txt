@@ -1,0 +1,16 @@
+aaa 57 aaa
+bbb 33 bbb
+ccc 21 ccc
+ddd 12 ddd
+eee 24 eee
+fff 45 fff
+ggg 43 ggg
+hhh 46 hhh
+iii 48 iii
+jjj 75 jjj
+kkk 67 kkk
+lll 73 lll
+lll 89 lll
+lll 92 lll
+lll 99 lll
+lll 83 lll
